@@ -60,4 +60,4 @@ The model learns from training data and predicts class labels for new data.
 
 ---
 
-## 📁 Project Structure
+
